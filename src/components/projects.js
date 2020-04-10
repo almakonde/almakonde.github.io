@@ -26,7 +26,7 @@ export default () => {
       </div>
       <div sx={{ variant: "item" }}>
         <h3>
-          <a sx={{ variant: "link.body" }} href="/">
+          <a sx={{ variant: "link.body" }} href="/pdf/document_1.pdf">
             {t("project_2.title")}{" "}
           </a>
         </h3>
@@ -34,7 +34,7 @@ export default () => {
       </div>
       <div sx={{ variant: "item" }}>
         <h3>
-          <a sx={{ variant: "link.body" }} href="/">
+          <a sx={{ variant: "link.body" }} href="/pdf/document_2.pdf">
             {t("project_3.title")}
           </a>
         </h3>
