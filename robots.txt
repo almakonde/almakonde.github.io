@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://almakonde.github.io/sitemap.xml
+Host: https://almakonde.github.io
